@@ -1,3 +1,5 @@
+# The *"Like a Stick"* **licence** 
+
 This software is released into the public domain.
 You may use it for any purpose, with or without modification.
 This software is provided “as is”, without warranty of any kind.
